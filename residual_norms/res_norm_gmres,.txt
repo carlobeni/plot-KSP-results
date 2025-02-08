@@ -1,0 +1,9 @@
+%%MatrixMarket matrix coordinate real general
+Matrix properties : m = 17758, n = 17758, nnz = 126150
+Maximum number of NNZ on a line : 2
+Assembling matrix within PETSc.
+Finished matrix assembly.
+%%MatrixMarket matrix array real general
+Vector properties : m = 17758
+Assembling vector within PETSc.
+Finished vector assembly.
